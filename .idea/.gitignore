@@ -18,6 +18,7 @@ tmp/
 *.swp
 *~.nib
 *.old
+*.zovao
 local.properties
 .settings/
 .loadpath
